@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="66654dbf-7d39-4068-8bf6-60a71ce21d2e" name="Default" comment="">
       <change type="DELETED" beforePath="C:\plugin\jquery.fcarousel.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery.fcarousel.v.1.0.js" afterPath="$PROJECT_DIR$/jquery.fcarousel.v.1.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
     </list>
     <ignored path="plugin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +37,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
+            <state line="9" column="3" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,10 +46,8 @@
       <file leaf-file-name="jquery.fcarousel.v.1.0.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jquery.fcarousel.v.1.0.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="148" column="29" selection-start="4026" selection-end="4026" vertical-scroll-proportion="0.51488835">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="2" column="48" selection-start="52" selection-end="52" vertical-scroll-proportion="0.042183623">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,6 +68,7 @@
         <option value="$PROJECT_DIR$/jquery.fcarousel.js" />
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/jquery.fcarousel.v.1.0.js" />
       </list>
     </option>
   </component>
@@ -223,17 +225,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
+        <state line="9" column="3" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery.fcarousel.v.1.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="148" column="29" selection-start="4026" selection-end="4026" vertical-scroll-proportion="0.51488835">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="2" column="48" selection-start="52" selection-end="52" vertical-scroll-proportion="0.042183623">
+          <folding />
         </state>
       </provider>
     </entry>
