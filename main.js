@@ -1,10 +1,11 @@
 $(document).ready(function(){
 
    $('.test-carousel').myCarousel({
-      visible : 3,
+      visible : 4,
       stepTime : 1000,
-      autoPlay : true,
-      showControls: false
+      autoPlay : false,
+      showControls: true,
+      placeholders: true
    });
 
 });
